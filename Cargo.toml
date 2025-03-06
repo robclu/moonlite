@@ -2,7 +2,7 @@
 name = "moonlite"
 version = "0.1.0"
 edition = "2024"
-license = "MIT or Apache-2.0"
+license = "MIT OR Apache-2.0"
 keywords = ["Machine", "Learning", "Inference", "CUDA", "Distributed", "Compiler"]
 repository = "https://github.com/robclu/moonlite"
 description = "A machine learning framework for efficient, cost-effective, scalable inference, and distributed, fault-tolerant fine-tuning and training."
